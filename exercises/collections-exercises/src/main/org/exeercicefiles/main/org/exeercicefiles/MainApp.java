@@ -7,7 +7,7 @@ public class MainApp {
 
    public static void main(String[] args) {
 
-       // added ligne to test git  test 2
+       // added ligne to test git  test 2  test 3
        System.out.println("no yes ");
        int[] inntArray={2,1,2,3,4,5,8};
       for (int nbr: inntArray){
