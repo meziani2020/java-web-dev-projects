@@ -11,7 +11,7 @@ public class MenuItem {
         this.description = d;
         this.category = c;
         this.isNew = iN;
-        //
+        //6
     }
 
     public void setPrice(double price) {
